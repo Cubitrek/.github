@@ -32,10 +32,6 @@ A business publishes one signed JSON file at `/.well-known/agent-passport.json`.
 
 It is MIT licensed, it sits on top of MCP and A2A rather than replacing either, and Cubitrek publishes its own passport at [cubitrek.com/.well-known/agent-passport.json](https://cubitrek.com/.well-known/agent-passport.json).
 
-## Can an AI agent hire Cubitrek directly?
-
-Yes. Senior humans are bookable by AI agents over MCP, REST or Schema.org `ReserveAction`, across twelve roles in build and front-of-house work, with a six hour match. See [Humans for Agents](https://cubitrek.com/services/humans-for-agents), or point an agent at the MCP server at `https://mcp.cubitrek.com`.
-
 ## How does Cubitrek work?
 
 Senior people direct AI agents instead of handing an account to a junior. The team replies, does the work, and shows the evidence.
